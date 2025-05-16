@@ -1,6 +1,7 @@
 # 🚀 **DevOps & DevSecOps Tools – Setup, Installation, and Guides**  
 
-![DevOps Banner](https://imgur.com/yUfbpAG.png)  
+![image](https://github.com/user-attachments/assets/063a455b-28b2-4eaf-aee6-eef0e81c325d)
+
 
 🔹 **Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools**  
 🔹 **Step-by-step guides with required commands for seamless setup**  
@@ -86,35 +87,8 @@ If you find this repository helpful, consider:
 
 **🚀 Let's build the ultimate DevOps toolkit together!**
 
----
-
-## Join the Community
-
-> [!IMPORTANT]
-> We encourage you to be an active part of our community:
->
-> - **Join Our Telegram Community:** Connect with fellow DevOps enthusiasts, ask questions, and share your progress in our [Telegram group](https://t.me/prodevopsguy).
-> - **Follow Me on GitHub:** Stay updated with new content by [following me on GitHub](https://github.com/NotHarshhaa).
-
----
-
-## 📢 **Author & Contact**  
-
-### 👨‍💻 **Created & Maintained by:** [H A R S H H A A](https://github.com/NotHarshhaa)  
-
-🔗 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-
-📩 **Need help or suggestions?** Feel free to reach out! 🚀  
-
----
 
 ## 🔥 **Hit the Star! ⭐**  
 
 If you’re using this repo for learning or reference, please give it a ⭐. It motivates me to create more awesome content! 🚀
 
----
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
