@@ -236,10 +236,3 @@ Terraform providers are plugins that allow Terraform to interact with APIs of cl
 - 🎓 [HashiCorp Learn - Providers](https://learn.hashicorp.com/collections/terraform/providers)
 
 You are now ready to install and configure providers in Terraform! 🚀
-
-## **Author by:**
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!Note]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
