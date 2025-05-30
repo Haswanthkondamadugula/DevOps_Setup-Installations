@@ -114,4 +114,4 @@ This playbook will install Nginx on all hosts in the `[web]` group.
 
 You've now successfully installed and configured Ansible on Ubuntu. You can continue to create more playbooks to automate various tasks on your infrastructure.
 
-## By [Harshhaa](https://www.github.com/NotHarshhaa)
+## By [Haswanth](https://github.com/Haswanthkondamadugula)
