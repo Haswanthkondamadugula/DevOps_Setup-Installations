@@ -239,10 +239,3 @@ A `.gitignore` file specifies which files and directories to ignore in your Git 
 - 🎓 [GitLab Documentation](https://docs.gitlab.com/ee/)
 
 You are now ready to set up and use version control for your Terraform projects! 🚀
-
-## **Author by:**
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!Note]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
