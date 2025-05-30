@@ -220,10 +220,3 @@ Here are some useful Docker Compose commands:
 ---
 
 This guide will help you install Docker Compose and set up multi-container Docker applications easily. By using `docker-compose.yml`, you can manage complex environments with multiple services, containers, and networks.
-
-## **Author by:**
-
-![test](https://imgur.com/2j6Aoyl.png)
-
-> [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
