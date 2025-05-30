@@ -95,4 +95,4 @@ After your pipeline is running, you can monitor its progress, view logs, and tro
 
 This setup creates a comprehensive CI/CD pipeline for a Python application hosted in Azure Repos, including stages for deployment, testing, and publishing to Azure Artifacts. You can further customize the pipeline to include additional steps, such as code quality checks or deployment to different environments, based on your project's specific requirements.
 
-## By [Harshhaa Reddy](https://www.github.com/NotHarshhaa)
+## By [Haswanth](https://github.com/Haswanthkondamadugula)
