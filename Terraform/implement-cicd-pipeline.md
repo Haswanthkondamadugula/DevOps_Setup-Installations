@@ -270,10 +270,3 @@ Popular CI/CD services include:
 - 📖 [CircleCI Documentation](https://circleci.com/docs/)
 
 You are now ready to implement a CI/CD pipeline for your Terraform projects! 🚀
-
-## **Author by:**
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!Note]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
