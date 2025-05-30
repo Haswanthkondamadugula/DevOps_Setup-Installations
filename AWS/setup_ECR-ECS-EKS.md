@@ -125,4 +125,4 @@ Here are the detailed steps:
 
 This setup will deploy your "Hello World" Docker image in a Kubernetes cluster running on Amazon EKS, with the image stored in Amazon ECR. Make sure to configure additional resources, such as services and ingress, as needed for your application.
 
-## By [Harshhaa Reddy](https://www.github.com/NotHarshhaa)
+## By [Haswanth](https://github.com/Haswanthkondamadugula)
