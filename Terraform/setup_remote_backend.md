@@ -164,10 +164,3 @@ Before setting up a remote backend, ensure you have:
 - 🎓 [HashiCorp Learn - Remote State Management](https://learn.hashicorp.com/collections/terraform/state)
 
 You are now ready to set up a remote backend in Terraform! 🚀
-
-## **Author by:**
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!Note]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
