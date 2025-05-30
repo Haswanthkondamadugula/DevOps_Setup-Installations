@@ -234,10 +234,3 @@ Documentation helps in understanding and maintaining Terraform configurations.
 - 🎓 [HashiCorp Learn - Terraform CLI](https://learn.hashicorp.com/terraform?track=cli)
 
 You are now ready to effectively configure and use the Terraform CLI! 🚀
-
-## **Author by:**
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!Note]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
